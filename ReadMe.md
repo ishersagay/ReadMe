@@ -9,5 +9,8 @@
 - I'm an Android Fanboy
 
 ## Favourite Tools
-- ![image](https://user-images.githubusercontent.com/42770411/142020872-6ec1410e-a74a-4331-97d2-7a37cf8c6f11.png)
+![image](https://user-images.githubusercontent.com/42770411/142020872-6ec1410e-a74a-4331-97d2-7a37cf8c6f11.png)
+![image](https://user-images.githubusercontent.com/42770411/142021135-31649442-65b5-46db-bc25-ad358e1289ed.png)
+![image](https://user-images.githubusercontent.com/42770411/142021214-4bea2e81-e632-412f-8857-a8823e19f922.png)
+
 
