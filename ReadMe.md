@@ -5,7 +5,7 @@
 
 ## About Me
 - I'm a 🇬🇧 X 🇳🇬 19 year Old
-- I'm a Backend Developer
+- I'm a FullStack Developer
 - I'm an Android Fanboy
 - I also love to shoot about and play basketball
 - Former U19s Rugby player
