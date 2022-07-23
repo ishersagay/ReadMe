@@ -5,7 +5,7 @@
 
 ## About Me
 - I'm a 🇬🇧 X 🇳🇬 20 year Old
-- I'm a Devops Developer
+- I'm a Devops Engineer
 - I'm an Android Fanboy
 - I also love to shoot about and play basketball
 
