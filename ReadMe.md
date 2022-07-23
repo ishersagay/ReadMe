@@ -4,11 +4,10 @@
 
 
 ## About Me
-- I'm a 🇬🇧 X 🇳🇬 19 year Old
-- I'm a FullStack Developer
+- I'm a 🇬🇧 X 🇳🇬 20 year Old
+- I'm a Devops Developer
 - I'm an Android Fanboy
 - I also love to shoot about and play basketball
-- Former U19s Rugby player
 
 ## Favourite Tools
 ![image](https://user-images.githubusercontent.com/42770411/142020872-6ec1410e-a74a-4331-97d2-7a37cf8c6f11.png)
